@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring_mms_day02.iml" filepath="$PROJECT_DIR$/spring_mms_day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_mms_day02_dao/spring_mms_day02_dao.iml" filepath="$PROJECT_DIR$/spring_mms_day02_dao/spring_mms_day02_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_mms_day02_service/spring_mms_day02_service.iml" filepath="$PROJECT_DIR$/spring_mms_day02_service/spring_mms_day02_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_mms_day02_web/spring_mms_day02_web.iml" filepath="$PROJECT_DIR$/spring_mms_day02_web/spring_mms_day02_web.iml" />
+    </modules>
+  </component>
+</project>
